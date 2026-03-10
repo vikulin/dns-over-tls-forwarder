@@ -1,6 +1,6 @@
 module github.com/mikispag/dns-over-tls-forwarder
 
-go 1.25.0
+go 1.22
 
 require (
 	codeberg.org/miekg/dns v0.6.64
